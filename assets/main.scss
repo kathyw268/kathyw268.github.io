@@ -8,3 +8,13 @@
   height: 200px;
   width: 100%;
 }
+
+.profile-image {
+  float: left;
+  margin-right: 20px;
+  max-width: 350px;
+
+  @media (max-width: 700px) {
+    max-width: 100%;
+  }
+}
