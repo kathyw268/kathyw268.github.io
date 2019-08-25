@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<a href='/blog'>Read</a>
