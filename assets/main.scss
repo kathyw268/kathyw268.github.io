@@ -43,3 +43,13 @@
       z-index: -1;
     }
 }
+
+.featured_posts {
+  display: flex;
+  justify-content: space-between;
+    
+  a + a {
+    margin-left: 20px;
+    width: 100%;
+  }
+}
