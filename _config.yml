@@ -23,8 +23,14 @@ email: ""
 description: A collection of thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+favorite_song:
+  url: https://open.spotify.com/track/5dmPNuHmRRJuHmJTDa7NuJ?si=NzfARerwT1qdEHFxhKYNOw
+  name: Bambi by Hippo Campus
+currently_reading: 
+  url: https://www.goodreads.com/book/show/29059.Choke
+  name: Choke by Chuck Palahniuk
+monthly_focus: Self-care
+
 
 # Build settings
 theme: minima

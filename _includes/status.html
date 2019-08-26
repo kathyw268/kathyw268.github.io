@@ -1,0 +1,7 @@
+<ul class="status-list">
+  {%- if site.favorite_song -%}<li><a href="{{site.favorite_song.url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/icons/music.svg#music-icon' }}"></use></svg><span>{{site.favorite_song.name}}</span></a></li>{%- endif -%}
+  {%- if site.currently_reading -%}<li><a href="{{site.currently_reading.url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/icons/book.svg#book-icon' }}"></use></svg><span>{{site.currently_reading.name}}</span></a></li>{%- endif -%}
+  {%- if site.monthly_focus -%}<li><svg class="svg-icon"><use xlink:href="{{ '/assets/icons/focus.svg#lightning-icon' }}"></use></svg><span>{{site.monthly_focus}}</span></li>{%- endif -%}
+</ul>
+
+<small>Icons by Gregor Cresnar from the Noun Project</small>

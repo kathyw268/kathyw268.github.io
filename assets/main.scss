@@ -18,3 +18,12 @@
     max-width: 100%;
   }
 }
+
+.status-list {
+  list-style: none;
+  margin-left: 0;
+
+  .svg-icon{
+    vertical-align: middle;
+  }
+}
