@@ -1,6 +1,7 @@
 ---
 ---
 @import "minima";
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
 
 .header-image {
   background: url('/assets/iceland-landscape.jpg') no-repeat center center fixed;
@@ -26,4 +27,19 @@
   .svg-icon{
     vertical-align: middle;
   }
+}
+
+.site-title {
+    font-family: 'Rubik', sans-serif;
+    position: relative;
+    
+    &::after {
+      content: 'Wu';
+      color: lightgray;
+      position: absolute;
+      right: 0;
+      transform: translate(15px, 5px);
+      display: inline-block;
+      z-index: -1;
+    }
 }
