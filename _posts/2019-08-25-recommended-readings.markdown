@@ -10,7 +10,7 @@ tags: featured
 ## Into the Wild
 ![Into the Wild Book Cover](/assets/book-covers/into-the-wild.jpg){:width="200px"}
 
-This book gets a lot of criticism for glamourizing "suicidal tendencies" but as someone who lives her life with recless abandon, it resonated with me in a way I didn't expect. 
+This book gets a lot of criticism for glamourizing "suicidal tendencies" but as someone who lives her life with reckless abandon, it resonated with me in a way I didn't expect. 
 
 Jon Krakauer details the true story of Chris McCandless, a young man who gives up all of his material possesions to embark on a journey of self-reliance. His lust for adventure leads him to the Alaskan wilderness where he meets his demise.
 
