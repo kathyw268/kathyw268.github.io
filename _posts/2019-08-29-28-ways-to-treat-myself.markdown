@@ -8,7 +8,7 @@ categories: life
 
 Today is my golden birthday (when your age matches the date of your birth. For example, I turned 28 on the 28th). Growing up my mom constantly told me my birthdate is lucky. 8 is a lucky number in Chinese culture and I have 2 of them in my birthdate. [Here's a very credible source I found explaining why](http://blog.tutorming.com/expats/lucky-and-unlucky-chinese-numbers).
 
-I really wanted to go big and celebrate my birthday for once. But I hate planning and would rather do something low-key. We were supposed to hike today and got rained out so I decided to make a list of 28 ways to treat myself. Again, I hate planning so I just did a binch of stuff and am now creating the list after the fact. Enjoy!
+I really wanted to go big and celebrate my birthday for once. But I hate planning and would rather do something low-key. We were supposed to hike today and got rained out so I decided to make a list of 28 ways to treat myself. Again, I hate planning so I just did a bunch of stuff and am now creating the list after the fact. Enjoy!
 
 1. Sleep in
 2. Hang out with friends
