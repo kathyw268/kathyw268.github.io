@@ -28,6 +28,10 @@ Jon Krakauer details the true story of Chris McCandless, a young man who gives u
 
 It was easy for me to relate to McCandless' angsty demeanor and admire his passion for life but if you don't have an affinity for the wilderness, his actions just seem impulsive and selfish.  
 
+Into the Wild put my spirit into words.
+
+> "We like companionship, see, but we can’t stand to be around people for very long. So we go get ourselves lost, come back for a while, then get the hell out again."
+
 ## Power of Habit
 ![Power of Habit Book Cover](/assets/book-covers/power-of-habit.jpg){:width="200px"}
 
