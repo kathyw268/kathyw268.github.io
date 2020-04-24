@@ -80,11 +80,18 @@ permalink: /andon/
   }
 
   .rotating {
+    position:absolute;
+    margin: 0 auto;
+    width: 100%;
     -webkit-animation: rotating 2s alternate infinite;
     -moz-animation: rotating 2s alternate infinite;
     -ms-animation: rotating 2s alternate infinite;
     -o-animation: rotating 2s alternate infinite;
     animation: rotating 2s alternate infinite;
+  }
+
+  .embarassing-photo {
+    margin-top: 300px;
   }
 </style>
 
