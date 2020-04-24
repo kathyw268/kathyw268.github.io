@@ -88,7 +88,7 @@ permalink: /andon/
   }
 </style>
 
-<div style="height: 100%; background: url('https://gifimage.net/wp-content/uploads/2017/10/confetti-animated-gif-13.gif'); text-align:center;">
+<div style="height: 100%; background: url('https://gifimage.net/wp-content/uploads/2017/10/confetti-animated-gif-13.gif') #140e0e; text-align:center;">
   <div class="rotating">
     <div class="wordart superhero">
       <h1 class="text">
