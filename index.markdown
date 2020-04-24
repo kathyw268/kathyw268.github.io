@@ -1,6 +1,7 @@
 ---
 layout: null
 ---
+<link href="https://fonts.googleapis.com/css2?family=Teko:wght@700&display=swap" rel="stylesheet">
 <style>
   body {
     margin: 0;
@@ -26,7 +27,7 @@ layout: null
   }
 
   .wordart.superhero .text {
-      font-family: Impact;
+      font-family: 'Impact', 'Teko', sans-serif;
       background: #fdea00;
       background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
       background: -moz-linear-gradient(top, #fdea00 0%, #fdcf00 44%, #fc2700 100%);
